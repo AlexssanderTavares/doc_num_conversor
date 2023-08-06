@@ -1,2 +1,7 @@
 05/08/2023 - Project Created
 		*Task: Fix to_rg class method in interface.rb
+
+06/08/2023 - Task completed: to_rg class method fixed
+				Fixed: User data entry methods
+				New: Registers list implemented, now we can see our registration during app runtime
+

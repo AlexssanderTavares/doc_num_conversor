@@ -58,8 +58,10 @@ class RegNumConversor
     end
 end
 
+=begin
 conversor = RegNumConversor.new
 print "RG: "
-rg = gets.to_s
+rg = gets.chomp.to_s
 
 puts conversor.to_rg(rg)
+=end
